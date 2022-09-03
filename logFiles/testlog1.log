@@ -109,3 +109,120 @@
 2022-08-31 01:02:10,149 [main] INFO E-Banking - UserID entered
 2022-08-31 01:02:10,380 [main] INFO E-Banking - Password Entered
 2022-08-31 01:02:13,530 [main] INFO E-Banking - Test Passed
+2022-08-31 13:47:55,138 [main] INFO E-Banking - URL opened
+2022-08-31 13:48:11,297 [main] INFO E-Banking - UserID entered
+2022-08-31 13:48:11,506 [main] INFO E-Banking - Password Entered
+2022-08-31 13:53:42,112 [main] INFO E-Banking - URL opened
+2022-08-31 13:53:45,517 [main] INFO E-Banking - UserID entered
+2022-08-31 13:53:45,922 [main] INFO E-Banking - Password Entered
+2022-08-31 13:54:17,558 [main] INFO E-Banking - Test Passed
+2022-08-31 16:20:20,062 [main] INFO E-Banking - URL opened
+2022-08-31 16:20:21,886 [main] INFO E-Banking - UserID entered
+2022-08-31 16:20:21,990 [main] INFO E-Banking - Password Entered
+2022-08-31 16:20:37,732 [main] INFO E-Banking - Clikced on New Customer
+2022-08-31 16:22:38,166 [main] INFO E-Banking - URL opened
+2022-08-31 16:22:38,363 [main] INFO E-Banking - UserID entered
+2022-08-31 16:22:38,481 [main] INFO E-Banking - Password Entered
+2022-08-31 16:22:48,322 [main] INFO E-Banking - Clikced on New Customer
+2022-08-31 16:23:20,293 [main] INFO E-Banking - Customer Name Entered
+2022-08-31 16:23:20,374 [main] INFO E-Banking - Gender Selected
+2022-08-31 16:23:26,362 [main] INFO E-Banking - Date of Birth Entered
+2022-08-31 16:23:26,540 [main] INFO E-Banking - Address Entered
+2022-08-31 16:23:26,641 [main] INFO E-Banking - City Entered
+2022-08-31 16:23:26,846 [main] INFO E-Banking - State Entered
+2022-08-31 16:23:26,947 [main] INFO E-Banking - Pincode Entered
+2022-08-31 16:23:27,050 [main] INFO E-Banking - Phone Number Entered
+2022-08-31 16:23:27,294 [main] INFO E-Banking - Random Email Entered
+2022-08-31 16:23:33,006 [main] INFO E-Banking - Validation Started
+2022-08-31 16:23:33,115 [main] INFO E-Banking - Test Failed
+2022-08-31 16:28:30,816 [main] INFO E-Banking - URL opened
+2022-08-31 16:28:32,219 [main] INFO E-Banking - UserID entered
+2022-08-31 16:28:32,368 [main] INFO E-Banking - Password Entered
+2022-08-31 16:28:56,140 [main] INFO E-Banking - Clikced on New Customer
+2022-08-31 16:38:34,484 [main] INFO E-Banking - URL opened
+2022-08-31 16:38:36,072 [main] INFO E-Banking - UserID entered
+2022-08-31 16:38:36,166 [main] INFO E-Banking - Password Entered
+2022-08-31 16:38:50,357 [main] INFO E-Banking - Clikced on New Customer
+2022-08-31 16:44:15,263 [main] INFO E-Banking - URL opened
+2022-08-31 16:44:15,615 [main] INFO E-Banking - UserID entered
+2022-08-31 16:44:15,957 [main] INFO E-Banking - Password Entered
+2022-08-31 16:44:29,638 [main] INFO E-Banking - Clikced on New Customer
+2022-08-31 16:44:59,243 [main] INFO E-Banking - Customer Name Entered
+2022-08-31 16:45:00,876 [main] INFO E-Banking - Gender Selected
+2022-08-31 16:45:04,213 [main] INFO E-Banking - Date of Birth Entered
+2022-08-31 16:45:04,329 [main] INFO E-Banking - Address Entered
+2022-08-31 16:45:04,425 [main] INFO E-Banking - City Entered
+2022-08-31 16:45:04,531 [main] INFO E-Banking - State Entered
+2022-08-31 16:45:04,630 [main] INFO E-Banking - Pincode Entered
+2022-08-31 16:45:04,741 [main] INFO E-Banking - Phone Number Entered
+2022-08-31 16:45:04,978 [main] INFO E-Banking - Random Email Entered
+2022-08-31 16:45:13,996 [main] INFO E-Banking - Validation Started
+2022-08-31 16:45:14,074 [main] INFO E-Banking - Test Passed
+2022-08-31 16:46:59,059 [main] INFO E-Banking - URL opened
+2022-08-31 16:46:59,227 [main] INFO E-Banking - UserID entered
+2022-08-31 16:46:59,373 [main] INFO E-Banking - Password Entered
+2022-08-31 16:47:12,821 [main] INFO E-Banking - Clikced on New Customer
+2022-08-31 16:47:39,528 [main] INFO E-Banking - Customer Name Entered
+2022-08-31 16:47:41,770 [main] INFO E-Banking - Gender Selected
+2022-08-31 16:47:44,975 [main] INFO E-Banking - Date of Birth Entered
+2022-08-31 16:47:45,091 [main] INFO E-Banking - Address Entered
+2022-08-31 16:47:45,173 [main] INFO E-Banking - City Entered
+2022-08-31 16:47:45,368 [main] INFO E-Banking - State Entered
+2022-08-31 16:47:45,480 [main] INFO E-Banking - Pincode Entered
+2022-08-31 16:47:45,596 [main] INFO E-Banking - Phone Number Entered
+2022-08-31 16:47:45,841 [main] INFO E-Banking - Random Email Entered
+2022-08-31 16:47:55,012 [main] INFO E-Banking - Validation Started
+2022-08-31 16:47:55,418 [main] INFO E-Banking - Test Passed
+2022-08-31 16:53:12,039 [main] INFO E-Banking - URL opened
+2022-08-31 16:53:17,540 [main] INFO E-Banking - UserID entered
+2022-08-31 16:53:17,655 [main] INFO E-Banking - Password Entered
+2022-08-31 16:54:08,813 [main] INFO E-Banking - URL opened
+2022-08-31 16:54:10,797 [main] INFO E-Banking - UserID entered
+2022-08-31 16:54:10,992 [main] INFO E-Banking - Password Entered
+2022-08-31 16:54:40,401 [main] INFO E-Banking - Clikced on New Customer
+2022-08-31 16:58:18,909 [main] INFO E-Banking - URL opened
+2022-08-31 16:58:24,460 [main] INFO E-Banking - UserID entered
+2022-08-31 16:58:24,589 [main] INFO E-Banking - Password Entered
+2022-08-31 16:58:31,112 [main] INFO E-Banking - Test Passed
+2022-08-31 16:59:06,126 [main] INFO E-Banking - URL opened
+2022-08-31 16:59:06,260 [main] INFO E-Banking - UserID entered
+2022-08-31 16:59:06,375 [main] INFO E-Banking - Password Entered
+2022-08-31 16:59:17,102 [main] INFO E-Banking - Clikced on New Customer
+2022-08-31 16:59:46,944 [main] INFO E-Banking - Customer Name Entered
+2022-08-31 16:59:47,078 [main] INFO E-Banking - Gender Selected
+2022-08-31 16:59:56,145 [main] INFO E-Banking - Date of Birth Entered
+2022-08-31 16:59:56,284 [main] INFO E-Banking - Address Entered
+2022-08-31 16:59:56,411 [main] INFO E-Banking - City Entered
+2022-08-31 16:59:56,540 [main] INFO E-Banking - State Entered
+2022-08-31 16:59:56,652 [main] INFO E-Banking - Pincode Entered
+2022-08-31 16:59:56,786 [main] INFO E-Banking - Phone Number Entered
+2022-08-31 16:59:56,957 [main] INFO E-Banking - Random Email Entered
+2022-08-31 17:00:06,322 [main] INFO E-Banking - Validation Started
+2022-08-31 17:00:06,397 [main] INFO E-Banking - Test Passed
+2022-08-31 17:01:09,672 [main] INFO E-Banking - URL opened
+2022-08-31 17:01:09,901 [main] INFO E-Banking - UserID entered
+2022-08-31 17:01:10,014 [main] INFO E-Banking - Password Entered
+2022-08-31 17:01:21,411 [main] INFO E-Banking - Test Passed
+2022-08-31 17:01:49,194 [main] INFO E-Banking - URL opened
+2022-08-31 17:01:49,345 [main] INFO E-Banking - UserID entered
+2022-08-31 17:01:49,483 [main] INFO E-Banking - Password Entered
+2022-08-31 17:01:56,132 [main] INFO E-Banking - Clikced on New Customer
+2022-08-31 17:02:29,887 [main] INFO E-Banking - Customer Name Entered
+2022-08-31 17:03:24,689 [main] INFO E-Banking - Gender Selected
+2022-08-31 17:03:28,016 [main] INFO E-Banking - Date of Birth Entered
+2022-08-31 17:03:28,169 [main] INFO E-Banking - Address Entered
+2022-08-31 17:03:28,289 [main] INFO E-Banking - City Entered
+2022-08-31 17:03:28,430 [main] INFO E-Banking - State Entered
+2022-08-31 17:03:28,535 [main] INFO E-Banking - Pincode Entered
+2022-08-31 17:03:28,657 [main] INFO E-Banking - Phone Number Entered
+2022-08-31 17:03:28,885 [main] INFO E-Banking - Random Email Entered
+2022-08-31 17:03:38,892 [main] INFO E-Banking - Validation Started
+2022-08-31 17:03:39,015 [main] INFO E-Banking - Test Passed
+2022-08-31 17:06:32,728 [main] INFO E-Banking - URL opened
+2022-08-31 17:06:35,245 [main] INFO E-Banking - UserID entered
+2022-08-31 17:06:35,377 [main] INFO E-Banking - Password Entered
+2022-08-31 17:06:37,443 [main] INFO E-Banking - Test Passed
+2022-08-31 17:06:48,727 [main] INFO E-Banking - URL opened
+2022-08-31 17:06:48,859 [main] INFO E-Banking - UserID entered
+2022-08-31 17:06:49,036 [main] INFO E-Banking - Password Entered
+2022-08-31 17:06:53,940 [main] INFO E-Banking - Clikced on New Customer
