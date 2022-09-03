@@ -16,7 +16,7 @@ public class TC_LoginTest_001 extends BaseClass {
 		lp.EnterPassword(pass);
 		log.info("Password Entered");
 		lp.ClickLogin();
-		if(driver.getTitle().equals("GTPL Bank Manager HomePage")) {
+		if(driver.getTitle().equals("Guru99 Bank Manager HomePage")) {
 			Assert.assertTrue(true);
 			log.info("Test Passed");
 		}else {
