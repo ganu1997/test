@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 3 failed tests</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-test" class="navigator-link">
-              <span class="suite-name border-failed">test</span>
+              <span class="suite-name border-passed">test</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -91,31 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">5 methods, 3 failed,   2 passed</span>
-                  </li>
-                  <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-test" class="hide-methods failed suite-test"> (hide)</a> <!-- hide-methods failed suite-test -->
-                      <a href="#" panel-name="suite-test" class="show-methods failed suite-test"> (show)</a> <!-- show-methods failed suite-test -->
-                    </span>
-                    <div class="method-list-content failed suite-test">
-                      <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-test" title="com.inetbanking.testCases.TC_LoginDDT_002" class="method navigator-link" hash-for-method="LoginDDT(mngr137319, bAdYvyb)">LoginDDT(mngr137319, bAdYvyb)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-test" title="com.inetbanking.testCases.TC_LoginDDT_002" class="method navigator-link" hash-for-method="LoginDDT(mngr83460, qAbUzyj)">LoginDDT(mngr83460, qAbUzyj)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-test" title="com.inetbanking.testCases.TC_LoginDDT_002" class="method navigator-link" hash-for-method="LoginDDT(mngr112909, tytUreg)">LoginDDT(mngr112909, tytUreg)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content failed suite-test -->
+                    <span class="method-stats">1 method,   1 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -126,12 +102,7 @@
                     <div class="method-list-content passed suite-test">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-test" title="com.inetbanking.testCases.TC_LoginDDT_002" class="method navigator-link" hash-for-method="LoginDDT(mngr434906, amAnyve)">LoginDDT(mngr434906, amAnyve)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-test" title="com.inetbanking.testCases.TC_LoginDDT_002" class="method navigator-link" hash-for-method="LoginDDT(mngr434906, amAnyve)">LoginDDT(mngr434906, amAnyve)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-test" title="com.inetbanking.testCases.TC_AddNewCustomer_003" class="method navigator-link" hash-for-method="LoginTest">LoginTest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-test -->
@@ -146,115 +117,17 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-test" class="panel test">
-          <div class="suite-test-class-failed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">com.inetbanking.testCases.TC_LoginDDT_002</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="LoginDDT(mngr137319, bAdYvyb)">
-                  </a> <!-- LoginDDT(mngr137319, bAdYvyb) -->
-                  <span class="method-name">LoginDDT</span>
-                  <span class="parameters">(mngr137319, bAdYvyb)</span>
-                  <div class="stack-trace">org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : User is not valid}
-  (Session info: chrome=104.0.5112.102): User is not valid
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;LAPTOP-976VAT1T&apos;, ip: &apos;192.168.1.5&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Ganesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55477}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: efc099a4911c503c488b61fe48da1940
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
-	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
-	at com.inetbanking.testCases.BaseClass.captureScreen(BaseClass.java:58)
-	at com.inetbanking.testCases.TC_LoginDDT_002.LoginDDT(TC_LoginDDT_002.java:22)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 27 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="LoginDDT(mngr83460, qAbUzyj)">
-                  </a> <!-- LoginDDT(mngr83460, qAbUzyj) -->
-                  <span class="method-name">LoginDDT</span>
-                  <span class="parameters">(mngr83460, qAbUzyj)</span>
-                  <div class="stack-trace">org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : User is not valid}
-  (Session info: chrome=104.0.5112.102): User is not valid
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;LAPTOP-976VAT1T&apos;, ip: &apos;192.168.1.5&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Ganesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55477}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: efc099a4911c503c488b61fe48da1940
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
-	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
-	at com.inetbanking.testCases.BaseClass.captureScreen(BaseClass.java:58)
-	at com.inetbanking.testCases.TC_LoginDDT_002.LoginDDT(TC_LoginDDT_002.java:22)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 27 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="LoginDDT(mngr112909, tytUreg)">
-                  </a> <!-- LoginDDT(mngr112909, tytUreg) -->
-                  <span class="method-name">LoginDDT</span>
-                  <span class="parameters">(mngr112909, tytUreg)</span>
-                  <div class="stack-trace">org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : User is not valid}
-  (Session info: chrome=104.0.5112.102): User is not valid
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;LAPTOP-976VAT1T&apos;, ip: &apos;192.168.1.5&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Ganesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55477}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: efc099a4911c503c488b61fe48da1940
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
-	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
-	at com.inetbanking.testCases.BaseClass.captureScreen(BaseClass.java:58)
-	at com.inetbanking.testCases.TC_LoginDDT_002.LoginDDT(TC_LoginDDT_002.java:22)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 27 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-test-class-failed -->
           <div class="suite-test-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">com.inetbanking.testCases.TC_LoginDDT_002</span>
+              <span class="class-name">com.inetbanking.testCases.TC_AddNewCustomer_003</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="LoginDDT(mngr434906, amAnyve)">
-                  </a> <!-- LoginDDT(mngr434906, amAnyve) -->
-                  <span class="method-name">LoginDDT</span>
-                  <span class="parameters">(mngr434906, amAnyve)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="LoginDDT(mngr434906, amAnyve)">
-                  </a> <!-- LoginDDT(mngr434906, amAnyve) -->
-                  <span class="method-name">LoginDDT</span>
-                  <span class="parameters">(mngr434906, amAnyve)</span>
+                  <a name="LoginTest">
+                  </a> <!-- LoginTest -->
+                  <span class="method-name">LoginTest</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -275,7 +148,7 @@ Session ID: efc099a4911c503c488b61fe48da1940
   &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.inetbanking.testCases.TC_LoginDDT_002&quot;/&gt;
+      &lt;class name=&quot;com.inetbanking.testCases.TC_AddNewCustomer_003&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- test --&gt;
@@ -315,32 +188,16 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(5);
+data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'LoginDDT')
-data.setCell(0, 2, 'com.inetbanking.testCases.TC_LoginDDT_002')
-data.setCell(0, 3, 27673);
-data.setCell(1, 0, 1)
-data.setCell(1, 1, 'LoginDDT')
-data.setCell(1, 2, 'com.inetbanking.testCases.TC_LoginDDT_002')
-data.setCell(1, 3, 21895);
-data.setCell(2, 0, 2)
-data.setCell(2, 1, 'LoginDDT')
-data.setCell(2, 2, 'com.inetbanking.testCases.TC_LoginDDT_002')
-data.setCell(2, 3, 13407);
-data.setCell(3, 0, 3)
-data.setCell(3, 1, 'LoginDDT')
-data.setCell(3, 2, 'com.inetbanking.testCases.TC_LoginDDT_002')
-data.setCell(3, 3, 5081);
-data.setCell(4, 0, 4)
-data.setCell(4, 1, 'LoginDDT')
-data.setCell(4, 2, 'com.inetbanking.testCases.TC_LoginDDT_002')
-data.setCell(4, 3, 4478);
+data.setCell(0, 1, 'LoginTest')
+data.setCell(0, 2, 'com.inetbanking.testCases.TC_AddNewCustomer_003')
+data.setCell(0, 3, 56373);
 window.suiteTableData['test']= { tableData: data, tableDiv: 'times-div-test'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <span class="suite-total-time">Total running time: 56 seconds</span>
               <div id="times-div-test">
               </div> <!-- times-div-test -->
             </div> <!-- times-div -->
@@ -366,41 +223,15 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.inetbanking.testCases.TC_LoginDDT_002</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.inetbanking.testCases.TC_AddNewCustomer_003</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setup(chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">LoginDDT(mngr434906, amAnyve)</span>
-                <span class="method-start">51971 ms</span>
+                <span class="method-name">LoginTest</span>
+                <span class="method-start">21609 ms</span>
               </div> <!-- test-method -->
-              <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">LoginDDT(mngr83460, qAbUzyj)</span>
-                <span class="method-start">79839 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">LoginDDT(mngr137319, bAdYvyb)</span>
-                <span class="method-start">85097 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">LoginDDT(mngr434906, amAnyve)</span>
-                <span class="method-start">98508 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">LoginDDT(mngr112909, tytUreg)</span>
-                <span class="method-start">120406 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-class after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">124918 ms</span>
-              </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->
